@@ -1,6 +1,4 @@
-nombre=input("Ingrese su nombre")
-print(f"Hola {nombre}, bienvenido/a")
-
-print("Cambio en remoto")
-
-print("Auxiliar cambio 1")
+print("Hola")
+numero_1=int(input("Ingrese un numero: "))
+numero_2=int(input("Ingrese un segundo numero: "))
+print(f"El resultado es {numero_1+numero_2}")
