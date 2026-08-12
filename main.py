@@ -3,4 +3,4 @@ print(f"Hola {nombre}, bienvenido/a")
 
 print("Cambio en remoto")
 
-print("Auxiliar")
+print("Auxiliar cambio 1")
